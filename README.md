@@ -10,8 +10,8 @@ Also, there might be a workaround for iGPU only user to use Monterey. The FakePC
 | Device          | Type                                                         | Infomation                                                   |
 | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | CPU             | i9-10900                                                      | normal frequency shift                                       |
-| iGPU            | UHD630                                                       | 4K decode normal，framebuffer injected，HEVC normal, on-board HDMI output |
-| dPU            | RX560d                                             | AMD dGPU|
+| iGPU            | UHD630                                                       | 4K decode normal，framebuffer injected，HEVC normal |
+| dPU            | RX560d                                             | use this AMD dGPU to connect to the monitor|
 | Audio           | ACL1200                                                      | layout-id：49，injected，3.5 on the case normal, others no test |
 | NetWork1         | Intel I217v                                                       | normal                                                       |
 | NetWork2         | RTL8125BG                                                       | normal                                                       |
